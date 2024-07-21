@@ -105,7 +105,7 @@ export default function BooksList() {
             <p className="text-l font-bold leading-relaxed text-sky-500 dark:text-sky-400">
               Price :{" "}
               <span className="text-md font-medium text-gray-500 dark:text-gray-400">
-                {item?.price}
+                {item?.price} EGP
               </span>
             </p>
             <p className="text-l font-bold leading-relaxed text-sky-500 dark:text-sky-400">
