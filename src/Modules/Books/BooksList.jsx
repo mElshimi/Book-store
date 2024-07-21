@@ -147,7 +147,6 @@ export default function BooksList() {
 
   return (
     <>
-      <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, voluptatem unde minus quo in fugiat!</h1>
       <section className="dark:text-white text-center mt-24 pb-14">
         {isLoading ? (
           "loading"
