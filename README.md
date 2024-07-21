@@ -1,6 +1,6 @@
 # Books Store
 
-Welcome to Books Store! you can browsers all books on our site, and get all book info
+Welcome to Books Store!
 
 ## Table of Contents
 1. [Used Packages](#used-packages)
